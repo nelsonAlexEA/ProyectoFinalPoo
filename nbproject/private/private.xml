@@ -3,9 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/epin/NetBeansProjects/Veterinaria/src/vista/FrmLogin.fxml</file>
-            <file>file:/home/epin/NetBeansProjects/Veterinaria/src/modelo/Conexion.java</file>
-            <file>file:/home/epin/NetBeansProjects/Veterinaria/src/main/fxMain.java</file>
+            <file>file:/home/epin/NetBeansProjects/heroes/src/Controlador/FrmMenuController.java</file>
+            <file>file:/home/epin/NetBeansProjects/heroes/src/vista/FrmBusqueda.fxml</file>
+            <file>file:/home/epin/NetBeansProjects/heroes/src/modelo/Conexion.java</file>
+            <file>file:/home/epin/NetBeansProjects/heroes/src/Controlador/FrmBusquedaController.java</file>
+            <file>file:/home/epin/NetBeansProjects/heroes/src/main/fxMain.java</file>
+            <file>file:/home/epin/NetBeansProjects/heroes/src/Controlador/FrmIngresarController.java</file>
         </group>
     </open-files>
 </project-private>
